@@ -16,7 +16,7 @@ Luego, para la nota final, se redondea de forma estándar. Además, la nota máx
 
 ## Trabajos Obligatorios
 
-Los trabajos obligatorios son 3
+Los trabajos obligatorios son:
 
 - La oficina del Chiqui: Código + Retroalimentación (Si la suma da más de 10, se acota a 10)
 - Mina de Litio

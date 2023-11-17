@@ -24,7 +24,7 @@ Los trabajos obligatorios son:
 
 Las notas se promedian, y luego se multiplican por 0,9 (ya que representan como mucho 9 puntos de la nota final). Ninguno de estos trabajos puede tener una nota menor a 5, de lo contrario, la contribución total de dichos trabajos se acota en 4.
 
-**Para reentregas de trabajos obligatorios**, pushear al repositorio del trabajo y completar el formulario del campus que se encuentra en la columna izquierda de la home llamada "Reentregas de Trabajos Prácticos". La **fecha máxima** de reentrega de trabajos obligatorios es el 17/11. Toda reentrega posterior a esta fecha no va a ser considerada.
+**Para reentregas de trabajos obligatorios**, pushear al repositorio del trabajo y completar el formulario del campus que se encuentra en la columna derecha de la home llamada "Reentregas de Trabajos Prácticos". La **fecha máxima** de reentrega de trabajos obligatorios es el 17/11. Toda reentrega posterior a esta fecha no va a ser considerada.
 
 ## Trabajo en clase
 
